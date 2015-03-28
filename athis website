@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>athi's webpage</title>
+</head> 
+<style type="text/css">
+body {
+text-align: center;
+background: url("https://planetflowers.files.wordpress.com/2014/06/nature-wallpaper-graphic.jpg");
+background: cover;
+background-position: center;
+
+}
+p {
+font-size: 22px;
+}
+input {
+margin: 1px;
+border: 0;
+padding: 5px;
+font-size:18px;
+}
+img {
+margin:44px 0px 0px 0px;
+border:7px solid white;
+border-radius:5px;
+width: 260px;
+height: 300px;
+}
+h1 {
+color: white;
+text-decoration: underline;
+}
+p{
+color: whitesmoke;
+}
+</style>
+<body>
+<h1>Take care of the nature</h1>
+<p><strong><em>Nature make us live a healthy life because we get oxygen from nature trees</em></p></strong>
+<p><strong><em>Let's take care of the Nature like we look for ourself</em></strong></p> 
+<img src="/home/brothers/Desktop/athi website/hello-world/Aaa.jpg"><br>
+<input type="email" placeholder="your email.@gmail"><br>
+<input type="password" placeholder="your password"><br>
+<input type="submit"><br>
+
+</body>
+
+</html>

@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+<h1>
+send email to
+     someone@gmail.com
+     </h1>
+     </head>
+  
+<style>
+
+body {
+border:7px solid white;
+border-radius: 20px;
+margin:40px 0px 0px 0px;
+background:url("https://s-media-cache-ak0.pinimg.com/236x/7c/43/6e/7c436e481641b822c157a4166c58dfdd.jpg");
+color:black;
+text-align: center;
+background-size: cover;
+
+}
+
+h2 {
+color:white;
+background-position:center;
+
+}
+img {
+border:3px solid white;
+border-radius: 20px;
+margin:40px 0px 0px 0px;
+width:40px;
+height: 40px;
+
+}
+p {
+font-size:35px;
+text-align: center;
+color: white;
+}
+input {
+border:0;
+padding:10px;
+font-size:18px;
+}
+img {
+height: 50px;
+width: 50px;
+}
+input {
+
+border:0px;
+padding:10px;
+font-size: 18px;
+}
+a {
+ text-align: right;
+}
+li {
+display: inline;
+text-align: left;
+color: green;
+padding:0px 10px 0px 10px;
+float: left;
+font-size: 20px;
+color:white;
+}
+</style> 
+<header>
+       <img src="/home/brothers/Desktop/WP_20150201_006.jpg">
+       <h1>Athi's Blog</h1>
+
+
+<body>
+<ul>
+<li><a href="/home/brothers/Desktop/athi website/hello-world/about me athi">About Me</a></li>
+<li><a href="/home/brothers/Desktop/athi website/hello-world/pics">Gallery</li>
+<li><a href="/home/brothers/Desktop/athi website/hello-world/cntct">Contact Me</a></li>
+</ul>
+</header>
+
+<p>"We rise above hate<br>we believe to live a better life"</p>
+<form
+
+action="MailTo;athilamfithi@mail.com"
+method="post"enctype="text/plain">
+<form> 
+Name<br>--
+<input type=" name="Name" value="Your name"><br>
+Email<br>
+<input type="text" name="Mail" value="Your Email"><br>
+Comment<br>
+<input type="text" name="comment" value="Your comment" size="50"><br>
+<br></br>
+<input type="submit" value="submit">
+<input type="reset" value="reset"><br>
+<div><br>
+<a href="https://www.facebook.com">
+<img src="http://images.huffingtonpost.com/2014-05-30-CrackedFacebookLogo.png">
+<a href="https://www.bbm.com">
+<img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSe6qQaNmwhOAXggysaJoY1p0_-W7zgA-NtCnSPKlyKX2CrOW23">
+<a href="https://www.intsagram.com">
+<img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRX3ddpbJxSxulnIK1ycYLyIGrzggh2yy84NzBmyRk2Flg-qxHUGA">
+<a href="https://www.twitter.com">
+<img src="http://www.playstationrepair.com.mx/images/RedesSociales/twiter.png">
+</div>
+</form>
+
+
+
+</body>
+</html>

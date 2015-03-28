@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+<h2>
+<em>My gallery</em>
+     </h2>
+     </head>
+  
+<style>
+h2 {
+color:black;
+text-decoration: underline;
+text-align:  center;
+}
+body {
+background-size: cover;
+text-align center;
+background:url("http://icongal.com/gallery/image/461363/icon_vibrant_skype_set_base_camera.png");
+background-size: cover;
+}
+
+img {
+margin:40px 0px 0px 0px;
+border:40px;
+border-radius: 20px;
+width: 150px;
+display: inline;
+
+}
+div {
+display: inline;
+}
+</style>
+<body>
+<div>
+<div><img src="/home/brothers/Desktop/Aaa.jpg"></div>
+<div><img src="/home/brothers/Desktop/WP_20150201_006.jpg"></div>
+<div><img src="/home/brothers/Documents/Aaaaa.jpg"></div>
+<div><img src="/home/brothers/Documents/Ah bby.jpg"></div>
+<div><img src="/home/brothers/Documents/Athi.jpg"></div>
+<div><img src="/home/brothers/Documents/Athie.jpg"></div>
+<div><img src="/home/brothers/Documents/Camera360_2015_2_6_070210.jpg"></div>
+<div><img scr="/home/brothers/Documents/Fresh Paint-2015.02.06-10.28.28.jpg"></div>
+<div><img scr="/home/brothers/Documents/WP_20150201_004.jpg"></div>
+<div><img src="http://images.firstcovers.com/covers/j/just_living_life-4080.jpg?i</div">
+<div><img src="http://static.tumblr.com/stuwnxe/HVrlxo6b9/living_life_101_header.png"></div>
+<div><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI1C4amCqWpiUuZaP1jgIY7MdumG_fWPh1GVyQKv6RdKOMFUeG"></div>
+<div><img src="http://livingwellforsuccess.com/wp-content/uploads/Living-Life.gif"></div>
+<div><img src="http://41.media.tumblr.com/tumblr_lx5mjuI4wU1qh9vzro1_500.jpg"></div>
+<div><img src="http://www.beautifulbodybistro.com/wp-content/uploads/2012/06/tumblr_m15e53MiZk1rolhnho1_500_large.jpg"></div>
+<div><img src="http://junipercivic.com/images/Berry/Long_way_home_web.jpg"></div>
+<div><img src="http://dsp1i8etdrigy.cloudfront.net/wp-content/uploads/2012/10/Long-Way-thumb-602x330.jpg"></div>
+<div><img src="http://inspirably.com/uploads/user/18420-plant-your-own-garden-and-decorate-your-own-soul-instead-of.png"></div>
+<div><img src="http://quotes2013.files.wordpress.com/2013/02/we-didnt-get-to-choose-where-life-planted-us-but-we-can-choose-where-to-plant-ourselves-to-grow-and-bloom.jpg"></div>
+<div><img src="https://kattermonran.files.wordpress.com/2014/12/12-33-lessons-learned-in-life.jpg?w=562"></div>
+
+
+
+
+</div>
+</body>
+</html>

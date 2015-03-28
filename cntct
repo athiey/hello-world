@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<h2>
+<strong><em>Contact Details</em></strong>
+     </h2>
+     </head>
+  
+<style>
+h2 {
+color: blue;
+text-decoration: underline;
+}
+img {
+height: 50px;
+width: 50px;
+}
+
+body {
+margin: none;
+text-align: center;
+background-size: cover;
+background-image:url("http://novoportal.hu/wp-content/uploads/contact.jpg");
+</style>
+<body>
+<div><strong>call No':</strong>073-354-5511</div>
+<br></br>
+<div><strong>home:</strong>021-197-0788</div>
+<br></br>
+<div><strong>Emai:</strong>athilamfithi@Gmail.com</div>
+<a href="https://www.facebook.com">
+<img src="http://images.huffingtonpost.com/2014-05-30-CrackedFacebookLogo.png">
+
+<br></br>
+</body>
+</html>

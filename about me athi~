@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<h2>
+About Me
+     </h2>
+     </head>
+  
+<style>
+
+body {
+background-image: url("http://www.district196.org/evhs/people/haughmjweb/mrhaughhome/Images/Buttons/buttons%20aboutme.jpg");
+background-size: contain;
+}
+
+h2 {
+color: bisque;
+text-decoration: underline;
+}
+li {
+color: wheat;
+font-size: 20px;
+}
+li a:hover {
+text-decoration: none;
+}
+li a:hover {
+text-decoration: underline;
+}
+
+</style>
+<body>
+<ul>
+<li>my name is athi lamfthi</li>
+<br><li>am 20 yrs old</li>
+<br><li>i live kwalanga 
+           <br>7455</br>
+102 special quarters </li>
+<br><li>I am confidence about my self but at the same time am shy talk but i can talk.</li>
+<br><li>I love people i like to make new friends meeting other people.</li>
+<br><li>I love parting and i love happiness</li>
+<br><li>since i am a DJ that why i love music and happiness<br>
+but when it comes to work i don't let any thing disturb me</li>
+<br><li>Am also a Brothers 4 All student.
+I find out about brothers for all on a event<br>
+i remember that day it was a Valentines Day <br>but i didn't follow it because i was to busy with training
+hockey and i didn't have time.<br></li>
+<br><li>Before i came to Brothers 4 All my cousin sister she bug me to come with her.
+<br>when i get in we have to introduce ourself i did that and i sore <br>people working with computer that i tell my self
+that what i was looking for.<br></li>
+</ul>
+
+
+</body>
+
+
+
+</html>
